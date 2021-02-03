@@ -24,4 +24,4 @@ __Special highlights of the CAMS Enterprise™ Student Portal include:__
 - __Campus News.__ View scrolling news specific to your institution.
 - __Calendaring.__ Access calendar to view Miscellaneous Events, Registration Dates.
 - __Important links.__ Provide unlimited links to sites valuable to your student body.
-[Access Student Portal →] (https://www.st-aug.edu/cams-portal/)
+[Access Student Portal →](https://www.st-aug.edu/cams-portal/)
