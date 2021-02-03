@@ -10,3 +10,18 @@ Saint Augustine’s University was chartered as Saint Augustine Normal School an
 In 1893, the School’s name changed from Saint Augustine Normal School to Saint Augustine’s School. In 1919, the name changed to Saint Augustine’s Junior College, the first year in which postsecondary instruction was offered. The School became a four-year institution in 1927. In 1928, the institution was renamed Saint Augustine’s College. Baccalaureate degrees were first awarded in 1931.
 
 The College further extended its mission by establishing St. Agnes Hospital and Training School for Nurses to provide medical care for and by African Americans. It was the first nursing school in the state of North Carolina for African-American students, and served as the only hospital to served African Americans until 1960. One most famous patients to be admitted to St. Agnes was Jack Johnson, the first African-American world heavyweight boxing champion. Johnson was admitted following an accident that ultimately led to his death in 1946.
+
+## STUDENT CAMS
+
+### Access Your Grades
+The CAMS Enterprise™ Student Portal is a powerful, easy-to-use tool that offers the highest level of security to ensure the confidentiality of students’ sensitive data. Students can register online, check their grades, and submit resumes online anytime, anywhere.
+
+__Special highlights of the CAMS Enterprise™ Student Portal include:__
+
+- __Fully Integrated.__ The Student Portal is an integrated part of CAMS Enterprise™ sharing the data and programming of the system for complete consistency.
+- __Student Information Update.__ Students can update their own basic information–each institution has the full decision-making power in determining which, if any, address can be changed (such as local, home, etc.).
+- __Student Directory.__ View student directory online with email link readily available. (Only those students who have provided the appropriate release information will appear in the directory.)
+- __Campus News.__ View scrolling news specific to your institution.
+- __Calendaring.__ Access calendar to view Miscellaneous Events, Registration Dates.
+- __Important links.__ Provide unlimited links to sites valuable to your student body.
+[Access Student Portal] → (https://students.st-aug.edu/login.asp)
